@@ -1,6 +1,10 @@
 # WallBoy---Wallpapers-App
 Pexels API &amp; Dio.
 
+![1](https://user-images.githubusercontent.com/80895946/205877758-6f75a7bf-8d4e-406c-ac5b-2c69449034ee.png)
+![Uploading 2.png…]()
+
+
 ![banner](https://user-images.githubusercontent.com/80895946/203800121-5391b368-94e6-4b49-b224-1e3e930e8dc3.png)
 ![1](https://user-images.githubusercontent.com/80895946/203800150-1c5332a5-c8f4-42a5-babf-267cdaadecec.png)
 ![2](https://user-images.githubusercontent.com/80895946/203800162-3b837352-2959-4d95-a166-f764165ddb55.png)
